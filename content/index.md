@@ -1,4 +1,4 @@
-# Data Science Unit
+# The SSC Data Science Unit
 
 Welcome to the Data Science Unit.
 
