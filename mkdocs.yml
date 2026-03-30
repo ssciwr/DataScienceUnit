@@ -1,0 +1,30 @@
+site_name: Data Science Unit
+site_description: A lightweight GitHub Pages site for the Data Science Unit
+site_url: ""
+docs_dir: content
+site_dir: docs
+use_directory_urls: false
+
+theme:
+  name: material
+  features:
+    - navigation.tabs
+    - navigation.top
+    - content.code.copy
+  palette:
+    - scheme: default
+      primary: teal
+      accent: blue
+
+nav:
+  - Home: index.md
+  - Showroom: showroom.md
+  - Contact: contact.md
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - md_in_html
+  - tables
+  - toc:
+      permalink: true
