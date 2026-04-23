@@ -3,31 +3,32 @@
 Welcome to the Data Science Unit.
 
 ## Mission
-
-Our mission is to turn data into practical insight, better decisions, and useful tools for the teams we support.
+We offer expertise in machine learning and data science as a service, to help you do better research by building or improving your data-driven digital tools.
 
 ## What We Do
+We can help you in a variety of ways:
+- **Develop machine learning/AI solutions from scratch**: We can build machine learning models to solve specific problems from scratch.
+- **Augmentation and improvement**: We can help you intergrate new models, techniques or algorithms into your existing ML toolchain.
+- **Sustainability and Reproducibility**: We can help you make your work more sustainable and reproducible by applying best practices in software development, data management, and documentation, and thus make your science more shareable and reusable by others.
 
-We work across analysis, modeling, experimentation, and decision support.
-
-- Translate business and operational questions into data-driven investigations
-- Build dashboards, reports, and lightweight internal tools
-- Develop predictive and statistical models where they add clear value
-- Partner with stakeholders to turn findings into action
+We offer four different formats for our work:
+- **Consulting**: Short meetings to discuss well defined problems and possible solutions, available free of charge and on short notice.
+- **Small scale projects**: We work with you to solve a specific problem, offering a day to a week of developer time free of charge to work on your project.
+- **Open call projects**: We offer up to six person-months of developer time to work on larger scale projects free of charge.
+- **funded projects**: We can act as co-PIs on grant applications to fund larger-scale projects.  # TODO: missing something here. Scared of it....
 
 ## How We Work
+We are commited to the principles of open science and open source software, and to the principle that AI and data science should be beneficial to everyone.
+We want our work to provide real value to our colaborators and to the broader scientific community, and to be sustainable and reproducible in the long term.
+We are commited to working in a collaborative and transparent way and adjust our work to the our collaborators' needs and goals. Knowledge transfer and capacity building are
+important parts of our work, to make sure what we do together can be sustained and built upon in the future.
 
-We focus on work that is useful, understandable, and maintainable.
 
-- Start with the problem, not the model
-- Keep methods proportional to the need
-- Communicate results clearly for non-specialist audiences
-- Build solutions that teams can actually use and trust
+## Project examples
+Here are some potential tasks or questions we could collaborate on:
 
-## This Site
 
-This site is a small home for the unit.
+## What's next?
+Want to see what we have worked on in the past? Have a look at our [showroom](showroom.md)
 
-- The `Home` page introduces our mission and approach
-- The `Showroom` page highlights example work
-- The `Contact` page explains how to reach us
+Have a project in mind? [Contact us](contact.md) to discuss how we can help you.

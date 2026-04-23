@@ -19,8 +19,8 @@ Install the dependencies and build the site:
 
 ```bash
 python3 -m venv .venv
-.venv/bin/pip install .
-.venv/bin/mkdocs build
+python3 -m pip install .
+mkdocs build
 ```
 
 Then commit the generated files in `docs/` so GitHub Pages can serve them.
