@@ -1,4 +1,4 @@
-# Open source and open science
+# Open source and open data
 We are commited to the principles of open science and open source software, and to the principle that AI and data science should be beneficial to everyone.
 
 # Impacting science

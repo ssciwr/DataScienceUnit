@@ -1,19 +1,20 @@
 # Contact
-The preferred way to contact us is by email:
 
 <div class="grid cards" markdown>
 
--   :material-email:  [ssc@iwr.uni-heidelberg.de](mailto:ssc@iwr.uni-heidelberg.de)
+-   :material-email:{ .lg .middle } __The preferred way to contact us is by email__
+
+    ---
+    [ssc@iwr.uni-heidelberg.de](mailto:ssc@iwr.uni-heidelberg.de)
 
 </div>
 
 
-
-You can find us in the Mathematikon on the Neuenheimer Feld campus:
-
 <div class="grid cards" markdown>
 
--   :material-map-marker:
+-   :material-map-marker:{ .lg .middle } __Where to find us__
+
+    ---
     <br>
     Scientific Software Center <br>
     Interdisciplinary Center of Scientific Computing, Heidelberg University <br>
