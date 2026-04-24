@@ -19,6 +19,8 @@ Gemfile.lock
 
 # Python / MkDocs
 .venv/
+.cache/
+.codex
 __pycache__/
 *.pyc
 *.egg-info/
