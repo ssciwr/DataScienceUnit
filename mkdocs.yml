@@ -7,15 +7,16 @@ use_directory_urls: false
 
 theme:
   name: materialx
+  logo: assets/ssclogo.png
   features:
     - navigation.tabs
     - navigation.top
     - content.code.copy
-  topbar_style: primary   # glass primary accent
+  topbar_style: glass   # glass primary accent
   palette:
     - scheme: default
-      primary: blue
-      accent: lightblue
+      primary: custom
+      accent: custom
 
 nav:
   - Home: index.md

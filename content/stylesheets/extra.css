@@ -1,3 +1,51 @@
+/* Make the top app bar taller than the Material default. */
+.md-header {
+  min-height: 3.4rem;
+}
+
+/* Match the inner header container to the outer header height. */
+.md-header__inner {
+  min-height: 3.4rem;
+}
+
+/* Size and align the logo link area in the top-left corner. */
+.md-header__button.md-logo {
+  align-items: center;
+  display: inline-flex;
+  height: 5rem;
+  margin: 0 0.6rem 0 0;
+  padding: 0.25rem;
+}
+
+/* Control the actual rendered logo image size. */
+.md-header__button.md-logo img {
+  height: 2.6rem;
+  width: auto;
+}
+
+/* Vertically center the site title text inside the taller header. */
+.md-header__title {
+  line-height: 3.4rem;
+}
+
+/* Make the horizontal tab/navigation bar taller. */
+.md-tabs {
+  min-height: 2.8rem;
+}
+
+/* Keep the tab list aligned with the taller tab bar. */
+.md-tabs__list {
+  min-height: 2.8rem;
+}
+
+/* Center tab labels inside the taller tab bar. */
+.md-tabs__link {
+  font-size: 0.78rem;
+  line-height: 2.8rem;
+  margin-top: 0;
+}
+
+/* Style Material's card grid items used on Markdown pages. */
 .md-typeset .grid.cards > ul > li {
   border: 0.08rem solid var(--md-default-fg-color--lightest);
   border-radius: 0.25rem;
@@ -5,12 +53,25 @@
   box-shadow: 0 0.12rem 0.4rem rgba(0, 0, 0, 0.06);
 }
 
+/* Highlight cards slightly when hovering them. */
 .md-typeset .grid.cards > ul > li:hover {
   border-color: var(--md-accent-fg-color);
 }
 
+/* Enlarge inline icons used inside card content. */
 .card-icon {
   font-size: 2rem;
   vertical-align: middle;
-  margin-right: 0.25rem;
+  margin-right: 1rem;
+}
+
+
+/* colors */
+:root >* {
+    --md-primary-fg-color: #CC0116;
+    --md-primary-fg-color--light: #E73232;
+    --md-primary-fg-color--dark: #A03232;
+    --md-accent-fg-color: #CC0116;
+}
+
 }
