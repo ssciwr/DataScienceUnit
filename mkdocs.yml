@@ -19,6 +19,8 @@ theme:
 
 nav:
   - Home: index.md
+  - What we do: whatwedo.md
+  - Our principles: principles.md
   - Showroom: showroom.md
   - Contact: contact.md
 
@@ -26,6 +28,12 @@ markdown_extensions:
   - admonition
   - attr_list
   - md_in_html
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
   - tables
   - toc:
       permalink: true
+
+extra_css:
+  - stylesheets/extra.css

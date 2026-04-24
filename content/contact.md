@@ -1,20 +1,25 @@
 # Contact
+The preferred way to contact us is by email:
 
-If you would like to get in touch with the Data Science Unit, use the contact details below.
+<div class="grid cards" markdown>
 
-## General Enquiries
+-   :material-email:  [ssc@iwr.uni-heidelberg.de](mailto:ssc@iwr.uni-heidelberg.de)
 
-- Team: Data Science Unit
-- Email: `datascienceunit@example.com`
-- Location: Add office or department details here
+</div>
 
-## Working With Us
 
-We are happy to talk about:
 
-- Potential collaboration opportunities
-- Requests for analysis or decision support
-- Example projects and internal capabilities
-- Questions about data, metrics, and modeling
+You can find us in the Mathematikon on the Neuenheimer Feld campus:
 
-Replace the placeholder details on this page with your real contact information.
+<div class="grid cards" markdown>
+
+-   :material-map-marker:
+    <br>
+    Scientific Software Center <br>
+    Interdisciplinary Center of Scientific Computing, Heidelberg University <br>
+    Room 01.218 <br>
+    Im Neuenheimer Feld 205 <br>
+    69120 Heidelberg <br>
+    Germany <br>
+
+</div>
