@@ -1,0 +1,16 @@
+.md-typeset .grid.cards > ul > li {
+  border: 0.08rem solid var(--md-default-fg-color--lightest);
+  border-radius: 0.25rem;
+  padding: 1.1rem;
+  box-shadow: 0 0.12rem 0.4rem rgba(0, 0, 0, 0.06);
+}
+
+.md-typeset .grid.cards > ul > li:hover {
+  border-color: var(--md-accent-fg-color);
+}
+
+.card-icon {
+  font-size: 2rem;
+  vertical-align: middle;
+  margin-right: 0.25rem;
+}

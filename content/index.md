@@ -23,6 +23,7 @@ Contact us below to discuss how we can help you with your project!
 
     [:octicons-arrow-right-24: Learn about our principles](principles.md)
 
+
 -   :fontawesome-solid-eye:{ .lg .middle } __Explore our past work__
 
     ---

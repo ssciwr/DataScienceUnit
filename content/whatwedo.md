@@ -18,5 +18,5 @@ We offer four different formats for our work:
 
 - **Open Call projects**: We offer up to six person-months of developer time to work on larger scale projects free of charge.
 
-- **Funded projects**: We can act as co-PIs or support your grant application for larger-scale projects.
+- **Funded projects**: We can act as co-PIs or support your grant application for larger-scale projects. # TODO: check again, scary! and too early perhaps
 
