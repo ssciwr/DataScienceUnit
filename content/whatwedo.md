@@ -2,15 +2,16 @@
 
 We can help you in a variety of ways:
 
-- **Develop machine learning or AI solutions from scratch**: We can build machine learning models to solve specific problems from scratch.
+- **Develop machine learning or AI solutions from scratch**: We can work with you to build machine learning pipelines from scratch for solving specific problems.
 
-- **Augmentation and improvement**: We can help you intergrate new models, techniques or algorithms into your existing ML toolchain.
+- **Augmentation and improvement**: We can help you integrate new models, techniques or algorithms into your existing ML toolchain, or help you develop new features or modules for your existing pipeline.
 
-- **Sustainability and Reproducibility**: We can help you make your work more sustainable and reproducible by applying best practices in software development, data management, and documentation, and thus make your science more shareable and reusable by others.
+- **Sustainability and Reproducibility**: We can help you make your work more sustainable and reproducible by applying best practices in machine learning and data science, thus helping you make your science more shareable and reusable.
 
-# How We Work
 
-We offer four different formats for our work:
+# What we offer
+
+We offer four different formats in which we can work with you, much the same as the SSC as a whole:
 
 - **Consultations**: Short meetings to discuss well defined problems and possible solutions, available free of charge and on short notice.
 
@@ -18,5 +19,4 @@ We offer four different formats for our work:
 
 - **Open Call projects**: We offer up to six person-months of developer time to work on larger scale projects free of charge.
 
-- **Funded projects**: We can act as co-PIs or support your grant application for larger-scale projects. # TODO: check again, scary! and too early perhaps
-
+- **Funded projects**: We can act as co-PIs or project partners to support your grant application for larger-scale projects. Most of the time, such cooperations arise from some of the above formats.
