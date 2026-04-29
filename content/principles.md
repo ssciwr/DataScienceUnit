@@ -2,9 +2,7 @@
 We are commited to the principles of open science and open source software, and to the principle that AI and machine learningshould be beneficial to everyone.
 
 # Impacting science
-We want our work to provide real value to our colaborators and to the broader scientific community, and to be sustainable and reproducible in the long term.
+We want our work to provide real value to our colaborators and adjust our work to the needs of the project. As a part of the Scientific Software Center, we work to improve reproducible science and sustainability of scientific machine learning and data science.
 
-We are commited to working in a collaborative and transparent way and adjust our work to our collaborators' needs and goals.
-
-Knowledge transfer and capacity building are important elements of our projects, to make sure what we do together can be sustained and built upon in the future.
+Knowledge transfer and capacity building are important elements in all of our projects, to make sure what we do together can be sustained and built upon in the future.
 
