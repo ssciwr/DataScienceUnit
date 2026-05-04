@@ -5,7 +5,7 @@
 -   :material-email:{ .lg .middle } __The preferred way to contact us is by email__
 
     ---
-    [ssc@iwr.uni-heidelberg.de](mailto:ssc@iwr.uni-heidelberg.de)
+    [ssc@uni-heidelberg.de](mailto:ssc@uni-heidelberg.de)
 
 </div>
 

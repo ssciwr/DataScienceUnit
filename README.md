@@ -29,5 +29,4 @@ mkdocs build --strict
 - `content/index.md`
 - `content/whatwedo.md`
 - `content/principles.md`
-- `content/showroom.md`
 - `content/contact.md`
