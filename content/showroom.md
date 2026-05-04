@@ -8,6 +8,8 @@ TODO: write model card and data card
 
 TODO: select one model that works well on the 20k data
 
+TODO: write more about impact and future work
+
 **Project partners**: Quantum gravity group, Prof. Dr. Astrid Eichhorn
 
 ### Topic
