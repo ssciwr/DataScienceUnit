@@ -24,14 +24,6 @@ Contact us below to discuss how we can help you with your project!
     [:octicons-arrow-right-24: Learn about our principles](principles.md)
 
 
--   :fontawesome-solid-eye:{ .lg .middle } __Explore our past work__
-
-    ---
-
-    Check out our past work and see how how how we collaborated with others.
-
-    [:octicons-arrow-right-24: Explore what we did for others here](showroom.md)
-
 -   :fontawesome-solid-paper-plane:{ .lg .middle } __Initiate a project__
 
     ---
